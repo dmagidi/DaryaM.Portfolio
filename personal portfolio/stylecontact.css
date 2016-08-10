@@ -1,0 +1,27 @@
+
+@font-face {
+	font-family: font2;
+	src: url("BrookeS8.ttf");
+}
+
+body {
+	background-image: url("house.png");
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+.socialmedia {
+	font-family: font2;
+    font-size: 2vw;
+    color:white;
+}
+.active1 {
+	font-family: font2;
+    font-size: 2vw;
+    text-align: center;
+    color:white;
+    background-color: powderblue;
